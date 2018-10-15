@@ -31,7 +31,7 @@ caption{
 }
 
 thead th, tfoot th{
-  background-color: black;
+  background-color: white;
 }
 
 thead td{
@@ -42,7 +42,7 @@ thead td{
 
 tfoot td{
   font-weight: bold;
-  background-color: black;
+  background-color: white;
 }
 
 .btn{
