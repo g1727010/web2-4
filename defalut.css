@@ -1,14 +1,14 @@
-caption{
-  pading: 5px;
+#ingredient{
+  border: 2px solid lightcolor;
+  border-collapse: collapse;
 }
 
-#ingredient{
-  boder: 2px solid lightcolor;
-  boder-collapse: colapse;
+th, td{
+  border: 1px solid lightcoral;
 }
 
 th{
-  boder: 1px solid lightcolor;
+  border: 1px solid lightcoral;
   background-color: mistyrose;
   padding: 5px;
   width: 100px;
@@ -16,10 +16,14 @@ th{
 }
 
 td{
-  boder: 1px solid lightcolor;
+  border: 1px solid lightcoral;
   padding: 5px;
   width: 80px;
   text-align: right;
+}
+
+caption{
+  padding: 5px;
 }
 
 #price{
@@ -31,6 +35,7 @@ thead th, tfoot th{
 }
 
 thead td{
+  color: white;
   background-colorl: lightcoral;
   text-align; center;
 }
