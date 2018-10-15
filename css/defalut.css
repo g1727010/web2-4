@@ -4,7 +4,7 @@ caption{
 
 #ingredient{
   border: 2px solid lightcolor;
-  border-collapse: colapse;
+  border-collapse: collapse;
 }
 
 th, td{
