@@ -1,0 +1,21 @@
+caption{
+  pading: 5px;
+}
+
+#price{
+  background-color: lightyellow;
+}
+
+thead th, tfoot th{
+  background-colorl lightcoral;
+  text-align; center;
+}
+tfoot td{
+  font-weight: bold;
+  background-color: white;
+}
+
+.btn{
+  -webkit-appearance: none;
+  margin: 5px;
+}
