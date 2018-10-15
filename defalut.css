@@ -2,14 +2,39 @@ caption{
   pading: 5px;
 }
 
+#ingredient{
+  boder: 2px solid lightcolor;
+  boder-collapse: colapse;
+}
+
+th{
+  boder: 1px solid lightcolor;
+  background-color: mistyrose;
+  padding: 5px;
+  width: 100px;
+  text-align: center;
+}
+
+td{
+  boder: 1px solid lightcolor;
+  padding: 5px;
+  width: 80px;
+  text-align: right;
+}
+
 #price{
   background-color: lightyellow;
 }
 
 thead th, tfoot th{
-  background-colorl lightcoral;
+  background-color: white;
+}
+
+thead td{
+  background-colorl: lightcoral;
   text-align; center;
 }
+
 tfoot td{
   font-weight: bold;
   background-color: white;
