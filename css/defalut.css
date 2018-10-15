@@ -40,11 +40,6 @@ thead td{
   text-align; center;
 }
 
-tfoot td{
-  font-weight: bold;
-  background-color: black;
-}
-
 .btn{
   -webkit-appearance: none;
   margin: 5px;
