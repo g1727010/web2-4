@@ -35,6 +35,7 @@ thead th, tfoot th{
 }
 
 thead td{
+  color: white;
   background-color: lightcoral;
   text-align; center;
 }
